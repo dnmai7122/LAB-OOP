@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Nam 2\[Ky 1] OOP\Class\W5\Project1\Project1\Source.cpp(84,17): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+D:\Nam 2\[Ky 1] OOP\Class\W5\Project1\Project1\Source.cpp(91,23): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\Nam 2\[Ky 1] OOP\Class\W5\Project1\Project1\Source.cpp(91,30): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\Nam 2\[Ky 1] OOP\Class\W5\Project1\Project1\Source.cpp(95,20): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\Nam 2\[Ky 1] OOP\Class\W5\Project1\Project1\Source.cpp(95,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Project1.vcxproj -> D:\Nam 2\[Ky 1] OOP\Class\W5\Project1\x64\Debug\Project1.exe

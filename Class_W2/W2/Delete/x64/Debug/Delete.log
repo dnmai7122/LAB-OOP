@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Nam 2\[Ky 1] OOP\Class\W2\Delete\Delete\Source.cpp(9,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Nam 2\[Ky 1] OOP\Class\W2\Delete\Delete\Source.cpp(26,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Nam 2\[Ky 1] OOP\Class\W2\Delete\Delete\Source.cpp(29,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Nam 2\[Ky 1] OOP\Class\W2\Delete\Delete\Source.cpp(44,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Nam 2\[Ky 1] OOP\Class\W2\Delete\Delete\Source.cpp(45,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Delete.vcxproj -> D:\Nam 2\[Ky 1] OOP\Class\W2\Delete\x64\Debug\Delete.exe
